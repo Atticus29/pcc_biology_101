@@ -167,8 +167,8 @@ Lecture
 
 |Graded Component|Details|Contribution (raw points)|Contribution (% of final grade)|
 |:---:|:---:|:------:|:---:|
-|Midterms|2 Midterms|2 @ 70 = 140|55%|
-|Final Exam|A cumulative exam during finals week|90|35%|
+|Exams|2 Exams consisting of multiple choice, matching, and short answer questions|2 @ 70 = 140|55%|
+|Final Exam|A cumulative exam during finals week  consisting of multiple choice, matching, and short answer questions|90|35%|
 |Homework|Weekly assignments due each Monday at the end of lecture|10 @ 2-3 = 26|10%|
 |**Total**||256|100%|
 
@@ -202,34 +202,34 @@ TODO Last change for MLK holiday
 
 Lecture
 
-|Date|Week|Topics|Text Chapter(s)|
+|Date (Monday)|Week|Topics|Text Chapter(s)|
 |:---:|:---:|:---:|:---:|
-||1|Introduction to Life on Earth|1|
-||2|Atoms, Molecules and Life (No Monday lecture for MLK)|2|
-||3|Biological Molecules|3|
-||4|Cell Structure and Function	|4|
-||5|Cell Membranes, Energy Flow and Life of the Cell|5, 6|
-||6|PhotosynthesisCellular Respiration|7.1 only, 8|
-||7|Population Growth and Regulation|9|
-||8|Community Interactions|10|
-||9|	Ecosystems|11|
-||10|Diverse Ecosystems & Biodiversity|12, 13|
-||11|Comprehensive Final Exam|NA|
+|8 Jan., 2018|1|Introduction to Life on Earth|1|
+|15 Jan., 2018|2|Atoms, Molecules and Life **(No Monday lecture for MLK)**|2|
+|22 Jan., 2018|3|Biological Molecules|3|
+|29 Jan., 2018|4|Cell Structure and Function **Exam 1**|4|
+|5 Feb., 2018|5|Cell Membranes, Energy Flow and Life of the Cell|5, 6|
+|12 Feb., 2018|6|PhotosynthesisCellular Respiration|7.1 only, 8|
+|19 Feb., 2018|7|Population Growth and Regulation|9|
+|26 Feb., 2018|8|Community Interactions **Exam 2**|10|
+|5 Mar., 2018|9|Ecosystems|11|
+|12 Mar., 2018|10|Diverse Ecosystems & Biodiversity|12, 13|
+|TODO|11|**Comprehensive Final Exam**|NA|
 
 Lab
 
-|Week|Topics|
-|:---:|:---:|
-|1|Scientific Method/Measurement|
-|2|Atomic Structure and Water (No Monday Lab for MLK)|
-|3|Macromolecules/Enzymes|
-|4|The Microscope and Microscopic Life|
-|5|The Cell|
-|6|Diffusion, Osmosis and pH|
-|7|Photosynthesis/Respiration|
-|8|Community Interactions|
-|9|Bioindicators|
-|10|	Owl Pellets and Populations/Ecological Footprint|
+|Date (Monday)|Week|Topics|
+|:---:|:---:|:---:|
+|8 Jan., 2018|1|Scientific Method/Measurement|
+|15 Jan., 2018|2|**(No Monday Lab for MLK)**|
+|22 Jan., 2018|3|Macromolecules/Enzymes|
+|29 Jan., 2018|4|The Microscope and Microscopic Life|
+|5 Feb., 2018|5|The Cell|
+|12 Feb., 2018|6|Diffusion, Osmosis and pH|
+|19 Feb., 2018|7|Photosynthesis/Respiration|
+|26 Feb., 2018|8|Community Interactions|
+|5 Mar., 2018|9|Bioindicators|
+|12 Mar., 2018|10|	Owl Pellets and Populations/Ecological Footprint|
 
 
 
