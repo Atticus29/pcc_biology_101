@@ -33,12 +33,17 @@ Course content, including lectures, will be disseminated on the [course wiki](ht
 
 #### Textbook and Lab Manual
 
+TODO
 - Biology 101 PCC Laboratory Manual, Fifth edition, Hayden McNeil, 2014.
 - Life on Earth BI 101 CUSTOM F17 TODO
 
 #### Computer Resources
+Computer labs for student use are located on campus.
 
-TODO
+#### Tutoring and Testing Services
+A testing center for students with special testing requirements is also available. Be aware that you will need to schedule with them and me in advance.
+
+On-line tutoring is also available [here](http://www.pcc.edu/resources/tutoring/etutor/)
 
 #### Socrative
 
