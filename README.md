@@ -231,7 +231,12 @@ Lab
 |5 Mar., 2018|9|Bioindicators|
 |12 Mar., 2018|10|	Owl Pellets and Populations/Ecological Footprint|
 
+#### [PCC Grading Guidelines](https://www.pcc.edu/resources/student-records/grading/)
 
+#### Dropping and Withdrawing
+The last day to drop this course this term before having to withdraw is **Sat., Jan. 13**
+
+See [here](www.pcc.edu/enroll/registration/dropping.html) for more information
 
 #### ADA Accommodations
 
