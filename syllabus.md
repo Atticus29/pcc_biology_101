@@ -1,7 +1,7 @@
-# Biology 101
-# Syllabus: Winter Quarter 2018
+# BI101 : Biology
 ## CRN 16889
 ---
+# Syllabus: Winter Quarter 2018
 ## Portland Community College
 ---
 
@@ -9,13 +9,14 @@
 
 |Name|Office Location|Email|Emergency Email|Phone Number
 |:---:|:---:|:---:|:---:|:---:|
-|Mark Fisher, PhD.|Rock Creek Bldg. 7 TODO|mark.fisher3@pcc.edu|mark.aaron.fisher@gmail.com|NA|
+|Mark Fisher, PhD.|Bldg. 7 Rm. 202|mark.fisher3@pcc.edu|mark.aaron.fisher@gmail.com|NA|
 
 Admin. Asst: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 
 ---
 ## Course Info
 
+BI 101 is a 4 credit course; co-enrollment in a Lab section is required. The lecture is worth 70% of the final grade, the points derived from lab will be worth 30% of the final grade.
 
 ### Class times and locations
 
@@ -33,9 +34,8 @@ Course content, including lectures, will be disseminated on the [course wiki](ht
 
 #### Textbook and Lab Manual
 
-TODO
 - Biology 101 PCC Laboratory Manual, Fifth edition, Hayden McNeil, 2014.
-- Life on Earth BI 101 CUSTOM F17 TODO
+- Pearson Custom Library for the Biological Sciences. Audesirk et al. 2017. Biology: Life on Earth with Physiology.
 
 #### Computer Resources
 Computer labs for student use are located on campus.
@@ -54,8 +54,25 @@ On-line tutoring is also available [here](http://www.pcc.edu/resources/tutoring/
 #### Philosophy and purpose of this course
  Biology 101 introduces the properties of life, the morphology and physiology of cells, cellular chemistry, energy transformation, and the basic principles of ecology. It’s a laboratory science course designed for non-biology majors.
 
+#### Learning Outcomes
+When students have completed BI 101, they should be able to:
+* Use the scientific method to look for the answers to questions
+* Use scientific instruments safely and appropriately including microscopes
+* Study effectively
+* Communicate effectively (including using the metric system to communicate)
+* Read and interpret scientific information (including information in the metric system)
+* Synthesize to solve problems
+* Organize ideas to achieve a specific purpose
+* Apply theoretical and conceptual models and frameworks to real world situations
+* Analyze problem solving/decision making situations
+* Identify situations/concepts where science does and does not apply
+* Recognize scientific information and its role in decision making
+
+
 #### Prerequisites
 WR 115, RD 115, and MTH 20 or equivalent placement test scores. Audit available.
+
+[Course Content and Outcome Guide](http://www.pcc.edu/ccog/default.cfm?fa=ccog&subject=BI&course=101)
 
 
 #### Lab Details
@@ -153,13 +170,16 @@ If you are honest with yourself and find the temptation too great, I strongly re
 
 A respectful environment will be maintained at all times. Please refer to the Code of Student Conduct online so you understand the student rights and responsibilities.
 
-#### Course Withdrawal
-
 #### Late Assignment Policy
+
+All assignments are due at the beginning of class on the due date unless otherwise noted. Any materials that are received after class on the due date will be marked down 10%. Late assignments will be marked down 10% each day after the due date. Late assignments will not be accepted after one week past their due date. No late online assignments will be accepted. If you have computer problems, you must contact me before the due date. No materials will be accepted after the last day of class, and no materials will be accepted during finals week.
+
 
 #### Missed Exams
 
-	There will be no make-up exams.
+Make up exams must be arranged with the instructor prior to the day of the scheduled exam and are at the discretion of the instructor.
+
+You must take the final exam as scheduled. No make up finals are permitted.
 
 ### Graded items and grading scale
 
@@ -191,14 +211,13 @@ TODO Last change for MLK holiday
 
 |Letter Grade|Corresponding Percentage Range|
 |:---:|:---:|
-|A|92-100%|
-|B+|88-89%|
-|B|82-87%|
-|B-|80-81%|
-|C+|77-79%|
-|C|70-76%|
+|A|90-100%|
+|B|80-89%|
+|C|70-79%|
 |D|60-69%|
-|F|<59.9%|
+|F|<60%|
+
+Extra credit: As a matter of department policy, there will be no extra credit assignments or activities.
 
 #### Course Schedule
 
@@ -250,6 +269,10 @@ PCC is committed to creating and fostering a learning and working environment ba
 #### Student Rights and responsibilities
 
 The Student [Rights and Responsibilities Handbook](www.pcc.edu/about/policy/student-rights/) establishes students' freedoms and protections as well as expectations of appropriate behavior and ethical academic work.  The Handbook includes items such as the Policy on Student Rights, the Policy on Student Conduct, and the Academic Integrity Policy.
+
+#### Campus closures/canceled classes
+
+Someone will contact you through your pcc.edu emails accounts in the event of closures or cancellations.
 
 #### Flexibility
 The instructor reserves the right to revise the class calendar, modify content, and/or substitute assignments in response to institutional, weather, or class situations.
