@@ -211,7 +211,7 @@ Lecture
 |26 Feb., 2018|8|Community Interactions **Exam 2**|10|
 |5 Mar., 2018|9|Ecosystems|11|
 |12 Mar., 2018|10|Diverse Ecosystems & Biodiversity|12, 13|
-|TODO|11|**Comprehensive Final Exam**|NA|
+|Wednesday, 21 Mar., 2018, 8:00AM - 9:50 AM|11|**Comprehensive Final Exam**|NA|
 
 Lab
 
