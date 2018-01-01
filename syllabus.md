@@ -138,9 +138,6 @@ In my experience, most introductory-level science classes are challenging becaus
 
 - Form study groups! Study groups can help everyone, whether you are doing well or are doing poorly. Use your study group to quiz each other and offer short teaching demos to each other on particular topics; you never truly appreciate what you know and don't know until you have to teach it to somebody else.
 
-#### Academic Honesty
-
-
 #### Classroom Behavior
 
 Modern technology is amazing, and in many instances it can be a tremendous learning asset. I'm not going to stop you from having or using these resources in class, and indeed will often leverage them to enhance your learning experience. However, sometimes the myriad temptations provided by having a phone, tablet, or laptop in front of you can compete with the course content for your attention.
@@ -238,13 +235,16 @@ The last day to drop this course this term before having to withdraw is **Sat., 
 
 See [here](www.pcc.edu/enroll/registration/dropping.html) for more information
 
-#### ADA Accommodations
+#### Accessibility and Accommodations
+PCC is committed to ensuring that classes are accessible.[Disability Services](www.pcc.edu/disability/) works with students and faculty to minimize barriers. If students elect to use approved academic accommodations, they must provide in advance formal notification from Disability Services to the instructor.
 
 
-#### Non-discrimination Policy
+#### Non-discrimination and Title IX Policy
+PCC is committed to creating and fostering a learning and working environment based on open communication and mutual respect.  If you believe you have encountered sexual harassment, sexual misconduct, sexual assault, or discrimination based on race, color, religion, age, national origin, veteran status, sex, sexual orientation, gender identity, or disability please contact the Office of Equity and Inclusion at (971) 722-5840 or equity.inclusion@pcc.edu.
 
+#### Student Rights and responsibilities
 
-#### Title IX and Sexual Misconduct
+The Student [Rights and Responsibilities Handbook](www.pcc.edu/about/policy/student-rights/) establishes students' freedoms and protections as well as expectations of appropriate behavior and ethical academic work.  The Handbook includes items such as the Policy on Student Rights, the Policy on Student Conduct, and the Academic Integrity Policy.
 
-
-#### Important College-Wide Student Information
+#### Flexibility
+The instructor reserves the right to revise the class calendar, modify content, and/or substitute assignments in response to institutional, weather, or class situations.
