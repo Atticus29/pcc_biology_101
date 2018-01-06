@@ -185,16 +185,18 @@ You must take the final exam as scheduled. No make up finals are permitted.
 
 *Please note that the weights and point distributions outlined below are subject to slight change. If the points values of anything change from what is laid out below, this syllabus will be updated, and I'll post an announcement about it.
 
-Lecture
+Lecture component of the course:
 
 |Graded Component|Details|Contribution (raw points)|Contribution (% of final grade)|
 |:---:|:---:|:------:|:---:|
 |Exams|2 Exams consisting of multiple choice, matching, and short answer questions|2 @ 70 = 140|55%|
 |Final Exam|A cumulative exam during finals week  consisting of multiple choice, matching, and short answer questions|90|35%|
-|Homework|Weekly assignments due each Monday at the end of lecture|10 @ 2-3 = 26|10%|
+|Homework|Weekly assignments due by the end of the school week (Friday 11:59PM)|10 @ 2-3 = 26|10%|
 |**Total**||256|100%|
 
-Lab
+Homework: Weekly homework will be posted on Pearson's Mastering Biology Site. [Click here](https://docs.google.com/document/d/17yVWFe9zlXYtiq2JqQyJHAt_k1bVz5uFxi8Vl-Hjqe0/edit?usp=sharing) for instructions on setting up an account for homework. The Course ID for this course is: **MBFISHER07524**.
+
+Lab Component of the course:
 
 TODO Last change for MLK holiday
 
@@ -207,7 +209,7 @@ TODO Last change for MLK holiday
 
 #### Grading Scale
 
- TODO Grades are based on a percentage of the total cumulative points (see table above).
+Grades are based on a percentage of the total cumulative points (see tables above).
 
 |Letter Grade|Corresponding Percentage Range|
 |:---:|:---:|
