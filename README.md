@@ -24,7 +24,7 @@ BI 101 is a 4 credit course; co-enrollment in a Lab section is required. The lec
 |:---:|:---:|:---:|:---:|
 |Lecture|Bldg. 7 Rm. 212|MW|8:30AM-9:50AM|
 |Lab|Bldg. 7 Rm. 123|M|10:30AM-1:20PM|
-|Office Hours|Bldg. 7 Rm. TODO|M|1:20 PM - 2:20 PM|
+|Office Hours|Bldg. 7 Rm. 202|M|1:20 PM - 2:20 PM|
 
 ### Textbooks and other resources
 
@@ -76,9 +76,10 @@ WR 115, RD 115, and MTH 20 or equivalent placement test scores. Audit available.
 
 
 #### Lab Details
-This lab component is worth 30% of your grade for the lecture+lab course. That 30% comprises participation and attendance, post-lab assignments, and weekly quizzes.
 
-BI 101 is laboratory-based course, so your participation in laboratory is essential. If your grade is an F in lab, your grade for the course will be an F as well. A student must have at least a D in lab to earn a C (or higher) in the course.
+BI 101 is laboratory-based course, so your participation in laboratory is essential. If your grade is an F in lab, your grade for the course will be an F as well. A student must have at least a D in lab to earn a C (or higher) in the course. **Students who miss more than two weeks of lab will receive an F in the course.**
+
+This lab component is worth 30% of your grade for the lecture+lab course. That 30% comprises participation and attendance, post-lab assignments, and weekly quizzes.
 
 There are 10 lab exercises. This is the hands-on, self-directed portion of the class. You must come to lab prepared (i.e., **you must read the lab exercise before you come to class**). You are expected to perform the lab exercises with your group.
 
@@ -101,8 +102,6 @@ If a student is absent and does not attend another lab, they can turn in their p
 Students will be asked to show the instructor their work (in lab manual) before they leave lab to confirm completion of the lab.
 
 ### Lab information
-
-BI 101 is a laboratory based course, so your participation in laboratory is essential. If your grade is an F in lab, your grade for the course will be an F. A student must have at least a D in lab to earn a C (or higher) in the course. **Students who miss more than two weeks of lab will receive an F in the course.**
 
 #### Post Labs
 Post Labs are in your lab manual. They will be due at the beginning of lab the week after the lab is complete (unless told otherwise). They are worth 10 points each.
@@ -137,16 +136,11 @@ Your effort outside of class will be reflected in the quality of work you do and
 
 *As you might imagine, we instructors get a ton of emails containing questions that could easily be answered by looking at this document, the course schedule, or referring to announcements made online. As a courtesy to me, please make sure that these information sources have been checked before you email me with logistical questions. I reserve the right to reply with, "see syllabus" or "see announcements".*
 
-### Course Objectives
-
-Upon successful completion of this course, a student should be able to: TODO
-
-
 ### Course Policies
 
 #### Class Preparation
 
-TODO Success in this course depends not only on attendance, but also on effort. Many of the concepts that we will discuss tend to be unfamiliar to students, and much of the vocabulary will likely also be new. In order to make the most of class time, read over the assigned chapters or sections BEFORE the class and then re-read them more carefully DIRECTLY AFTER the class in which they are discussed. Waiting until right before a test to read the text is highly ineffective. Throughout the quarter, there will be in-class group activities and I will also be calling on students for responses to questions. Your interaction on these fronts will contribute to your participation grade.
+Success in this course depends not only on attendance, but also on effort. Many of the concepts that we will discuss tend to be unfamiliar to students, and much of the vocabulary will likely also be new. In order to make the most of class time, read over the assigned chapters or sections BEFORE the class and then re-read them more carefully DIRECTLY AFTER the class in which they are discussed. Waiting until right before a test to read the text is highly ineffective. Throughout the quarter, there will be in-class group activities and I will also be calling on students for responses to questions. Your participation on these fronts will contribute to your final grade (via the homework component).
 
 #### Study Suggestions
 
@@ -156,7 +150,7 @@ In my experience, most introductory-level science classes are challenging becaus
 
 - Make a list of questions as you study your notes and read the textbook. Ask these questions during conference, lecture, or ask another student while you're studying.
 
-- TODO Use the objectives at the beginning of each chapter AND the “Testing Your Comprehension questions” at the end of the chapter as a study guide. These review questions will highlight what is most important to focus on in the text. If any of my objectives for a unit go beyond those mentioned in the textbook, I will make you aware of that.
+- Use the homework questions in Mastering Biology as a study guide. These review questions will highlight what is most important to focus on in the text. If any of my objectives for a unit go beyond those mentioned in the textbook, I will make you aware of that.
 
 - Form study groups! Study groups can help everyone, whether you are doing well or are doing poorly. Use your study group to quiz each other and offer short teaching demos to each other on particular topics; you never truly appreciate what you know and don't know until you have to teach it to somebody else.
 
@@ -191,21 +185,18 @@ Lecture component of the course:
 |:---:|:---:|:------:|:---:|
 |Exams|2 Exams consisting of multiple choice, matching, and short answer questions|2 @ 70 = 140|55%|
 |Final Exam|A cumulative exam during finals week  consisting of multiple choice, matching, and short answer questions|90|35%|
-|Homework|Weekly assignments due by the end of the school week (Friday 11:59PM)|10 @ 2-3 = 26|10%|
+|Homework (+ participation)|Weekly assignments due by the end of the school week (Friday 11:59PM). Participation may factor into homework grades as well.|10 @ 2-3 = 26|10%|
 |**Total**||256|100%|
 
 Homework: Weekly homework will be posted on Pearson's Mastering Biology Site. [Click here](https://docs.google.com/document/d/17yVWFe9zlXYtiq2JqQyJHAt_k1bVz5uFxi8Vl-Hjqe0/edit?usp=sharing) for instructions on setting up an account for homework. The Course ID for this course is: **MBFISHER07524**.
 
 Lab Component of the course:
 
-TODO Last change for MLK holiday
-
 |Graded Component|Details|Contribution (raw points)|Contribution (% of final grade)|
 |:---:|:---:|:------:|:---:|
-|Post Labs|11 total (2 in week 10)|11 * 10 = 110|57.90%|
-|Quizzes|9 total (with lowest dropped)|8 * 10 = 80|42.1%|
+|Post Labs|10 total (0 in week 2 and 2 in week 10)|11 * 10 = 110|57.90%|
+|Quizzes|8 total (no quiz for weeks 1 or 2), (with lowest dropped)|8 * 10 = 80|42.1%|
 |**Total**||190|100%|
-
 
 #### Grading Scale
 
