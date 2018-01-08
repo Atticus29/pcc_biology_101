@@ -105,7 +105,7 @@ Students will be asked to show the instructor their work (in lab manual) before 
 
 #### Post Labs
 Post Labs are in your lab manual. They will be due at the beginning of lab the week after the lab is complete (unless told otherwise). They are worth 10 points each.
-	If you turn your post-labs in late on the due date, they may be marked down up to 10% at my discretion even if you are just tardy or forget to turn it in. Post-labs will be marked down an additional 10% each day. They will not be accepted after one week beyond the due date.
+	If you turn your post-labs in late on the due date, they may be marked down up to 10% at my discretion even if you are just tardy or forget to turn it in. Post-labs will be marked down an additional 10% each day. You may submit the post lab electronically (even photos with your phone will do) if this helps you turn it in earlier. They will not be accepted after one week beyond the due date.
 	You cannot receive credit for a postlab assignment if you did not complete the lab. If you miss a lab, you may turn your previous postlab in when you return with no late penalty.
 	Although you may work together as a group, you may not copy from your lab mates. If I suspect you are copying from another student (or allowing another student to copy your work), you will receive a zero for the assignment and I will report you to the college for disciplinary action.
 If you are absent and unable to attend another lab, you can turn in your post-lab (from before your absence) without a late penalty. However, you must take the scheduled quiz (not the one that you missed during your absence).
