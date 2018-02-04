@@ -225,7 +225,7 @@ Lecture
 |5 Feb., 2018|5|Cell Membranes, Energy Flow and Life of the Cell|5, 6|
 |12 Feb., 2018|6|PhotosynthesisCellular Respiration|7.1 only, 8|
 |19 Feb., 2018|7|Population Growth and Regulation|9|
-|26 Feb., 2018|8|Community Interactions **Exam 2**|10|
+|26 Feb., 2018|8|**Exam 2 (Monday)** Community Interactions|10|
 |5 Mar., 2018|9|Ecosystems|11|
 |12 Mar., 2018|10|Diverse Ecosystems & Biodiversity|12, 13|
 |Wednesday, 21 Mar., 2018, 8:00AM - 9:50 AM|11|**Comprehensive Final Exam**|NA|
