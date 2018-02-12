@@ -221,10 +221,10 @@ Lecture
 |8 Jan., 2018|1|Introduction to Life on Earth|1|
 |15 Jan., 2018|2|Atoms, Molecules and Life **(No Monday lecture for MLK)**|2|
 |22 Jan., 2018|3|Biological Molecules|3|
-|29 Jan., 2018|4|Cell Structure and Function **Exam 1**|4|
+|29 Jan., 2018|4|Cell Structure and Function **Exam 1 (Wednesday)**|4|
 |5 Feb., 2018|5|Cell Membranes, Energy Flow and Life of the Cell|5, 6|
-|12 Feb., 2018|6|PhotosynthesisCellular Respiration|7.1 only, 8|
-|19 Feb., 2018|7|Population Growth and Regulation|9|
+|12 Feb., 2018|6|Ch. 6 (cont.) & PhotosynthesisCellular Respiration|7.1 only, 8|
+|19 Feb., 2018|7|Ch. 8 (cont.) & Population Growth and Regulation|9|
 |26 Feb., 2018|8|**Exam 2 (Monday)** Community Interactions|10|
 |5 Mar., 2018|9|Ecosystems|11|
 |12 Mar., 2018|10|Diverse Ecosystems & Biodiversity|12, 13|
