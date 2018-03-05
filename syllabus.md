@@ -226,8 +226,8 @@ Lecture
 |12 Feb., 2018|6|Ch. 6 (cont.) & PhotosynthesisCellular Respiration|7.1 only, 8|
 |19 Feb., 2018|7|Ch. 8 (cont.) & Population Growth and Regulation|9|
 |26 Feb., 2018|8|Community Interactions **Exam 2 (Wednesday)** Chapter 10 not covered on exam|10|
-|5 Mar., 2018|9|Ecosystems|11|
-|12 Mar., 2018|10|Diverse Ecosystems & Biodiversity|12, 13|
+|5 Mar., 2018|9|Ch. 10 (cont. ) & Ecosystems|11|
+|12 Mar., 2018|10|Ch. 11 (cont.) & Diverse Ecosystems & Biodiversity|12, 13|
 |Wednesday, 21 Mar., 2018, 8:00AM - 9:50 AM|11|**Comprehensive Final Exam**|NA|
 
 Lab
