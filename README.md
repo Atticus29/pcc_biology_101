@@ -263,6 +263,8 @@ PCC is committed to creating and fostering a learning and working environment ba
 
 The Student [Rights and Responsibilities Handbook](www.pcc.edu/about/policy/student-rights/) establishes students' freedoms and protections as well as expectations of appropriate behavior and ethical academic work.  The Handbook includes items such as the Policy on Student Rights, the Policy on Student Conduct, and the Academic Integrity Policy.
 
+PCC is a sanctuary college.  For more information and resources, see [www.pcc.edu/resources/undocumented-students/](www.pcc.edu/resources/undocumented-students/).
+
 #### Campus closures/canceled classes
 
 Someone will contact you through your pcc.edu emails accounts in the event of closures or cancellations.
