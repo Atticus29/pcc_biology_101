@@ -1,6 +1,6 @@
 # BI101 : Biology
 ## CRN 26658 (MW 9:00 AM - 10:20 AM)
-## CRN 20409 (MW 1:00 PM - 2:20 PM and M 2:30 PM - 5:20 PM)
+## CRN 20409 (MW 1:00 PM - 2:20 PM and M 2:30 PM - 5:20 PM Lab)
 ---
 # Syllabus: Spring Quarter 2018
 ## Portland Community College
@@ -227,9 +227,10 @@ Lecture
 |21 May, 2018|8|Community Interactions **Exam 2 (Wednesday)** Chapter 10 not covered on exam|10|
 |28 May, 2018|9|Ch. 10 (cont. ) & Ecosystems|11|
 |4 Jun., 2018|10|Ch. 11 (cont.) & Diverse Ecosystems & Biodiversity|12, 13|
-|TODO Wednesday, 21 Mar., 2018, 8:00AM - 9:50 AM|11|**Comprehensive Final Exam**|NA|
+|Monday, 11 Jun., 2018, 9:00AM - 10:50 AM|11|CRN 26658 (MW 9:00 AM - 10:20 AM) **Comprehensive Final Exam**|NA|
+|Monday, 11 Jun., 2018, 1:00PM - 2:50 PM|11|CRN 20409 (MW 1:00 PM - 2:20 PM) **Comprehensive Final Exam**|NA|
 
-Lab
+Lab (for CRN 20409)
 
 |Date (Monday)|Week|Topics|
 |:---:|:---:|:---:|
