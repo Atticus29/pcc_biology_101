@@ -1,7 +1,8 @@
 # BI101 : Biology
-## CRN 16889
+## CRN 26658 (MW 9:00 AM - 10:20 AM)
+## CRN 20409 (MW 1:00 PM - 2:20 PM and M 2:30 PM - 5:20 PM)
 ---
-# Syllabus: Winter Quarter 2018
+# Syllabus: Spring Quarter 2018
 ## Portland Community College
 ---
 
@@ -22,9 +23,10 @@ BI 101 is a 4 credit course; co-enrollment in a Lab section is required. The lec
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Lecture|Bldg. 7 Rm. 212|MW|8:30AM-9:50AM|
-|Lab|Bldg. 7 Rm. 123|M|10:30AM-1:20PM|
-|Office Hours|Bldg. 7 Rm. 202|M|1:20 PM - 2:20 PM|
+|Lecture CRN 26658|Bldg. 7 Rm. 116|MW|9:00 AM-10:20 AM|
+|Lecture CRN 20409|Bldg. 7 Rm. 104|MW|1:00 PM-2:20 PM|
+|Lab CRN 20409|Bldg. 7 Rm. 123|M|2:30 PM - 5:20 PM|
+|Office Hours|Bldg. 7 Rm. 202|M|5:30 PM - 6:30 PM|
 
 ### Textbooks and other resources
 
@@ -71,9 +73,7 @@ When students have completed BI 101, they should be able to:
 
 #### Prerequisites
 WR 115, RD 115, and MTH 20 or equivalent placement test scores. Audit available.
-
 [Course Content and Outcome Guide](http://www.pcc.edu/ccog/default.cfm?fa=ccog&subject=BI&course=101)
-
 
 #### Lab Details
 
@@ -168,7 +168,6 @@ A respectful environment will be maintained at all times. Please refer to the Co
 
 All assignments are due at the beginning of class on the due date unless otherwise noted. Any materials that are received after class on the due date will be marked down 10%. Late assignments will be marked down 10% each day after the due date. Late assignments will not be accepted after one week past their due date. No late online assignments will be accepted. If you have computer problems, you must contact me before the due date. No materials will be accepted after the last day of class, and no materials will be accepted during finals week.
 
-
 #### Missed Exams
 
 Make up exams must be arranged with the instructor prior to the day of the scheduled exam and are at the discretion of the instructor.
@@ -218,32 +217,32 @@ Lecture
 
 |Date (Monday)|Week|Topics|Text Chapter(s)|
 |:---:|:---:|:---:|:---:|
-|8 Jan., 2018|1|Introduction to Life on Earth|1|
-|15 Jan., 2018|2|Atoms, Molecules and Life **(No Monday lecture for MLK)**|2|
-|22 Jan., 2018|3|Biological Molecules|3|
-|29 Jan., 2018|4|Cell Structure and Function **Exam 1 (Wednesday)**|4|
-|5 Feb., 2018|5|Cell Membranes, Energy Flow and Life of the Cell|5, 6|
-|12 Feb., 2018|6|Ch. 6 (cont.) & PhotosynthesisCellular Respiration|7.1 only, 8|
-|19 Feb., 2018|7|Ch. 8 (cont.) & Population Growth and Regulation|9|
-|26 Feb., 2018|8|Community Interactions **Exam 2 (Wednesday)** Chapter 10 not covered on exam|10|
-|5 Mar., 2018|9|Ch. 10 (cont. ) & Ecosystems|11|
-|12 Mar., 2018|10|Ch. 11 (cont.) & Diverse Ecosystems & Biodiversity|12, 13|
-|Wednesday, 21 Mar., 2018, 8:00AM - 9:50 AM|11|**Comprehensive Final Exam**|NA|
+|2 Apr., 2018|1|Introduction to Life on Earth|1|
+|9 Apr., 2018|2|Atoms, Molecules and Life|2|
+|16 Apr., 2018|3|Biological Molecules|3|
+|23 Apr., 2018|4|Cell Structure and Function **Exam 1 (Wednesday)**|4|
+|30 Apr., 2018|5|Cell Membranes, Energy Flow and Life of the Cell|5, 6|
+|7 May, 2018|6|Ch. 6 (cont.) & PhotosynthesisCellular Respiration|7.1 only, 8|
+|14 May, 2018|7|Ch. 8 (cont.) & Population Growth and Regulation|9|
+|21 May, 2018|8|Community Interactions **Exam 2 (Wednesday)** Chapter 10 not covered on exam|10|
+|28 May, 2018|9|Ch. 10 (cont. ) & Ecosystems|11|
+|4 Jun., 2018|10|Ch. 11 (cont.) & Diverse Ecosystems & Biodiversity|12, 13|
+|TODO Wednesday, 21 Mar., 2018, 8:00AM - 9:50 AM|11|**Comprehensive Final Exam**|NA|
 
 Lab
 
 |Date (Monday)|Week|Topics|
 |:---:|:---:|:---:|
-|8 Jan., 2018|1|Scientific Method/Measurement|
-|15 Jan., 2018|2|**(No Monday Lab for MLK)**|
-|22 Jan., 2018|3|Macromolecules/Enzymes|
-|29 Jan., 2018|4|The Microscope and Microscopic Life|
-|5 Feb., 2018|5|The Cell|
-|12 Feb., 2018|6|Diffusion, Osmosis and pH|
-|19 Feb., 2018|7|Photosynthesis/Respiration|
-|26 Feb., 2018|8|Community Interactions|
-|5 Mar., 2018|9|Bioindicators|
-|12 Mar., 2018|10|	Owl Pellets and Populations/Ecological Footprint|
+|2 Apr., 2018|1|Scientific Method/Measurement|
+|9 Apr., 2018|2|Atomic Structure and Water|
+|16 Apr., 2018|3|Macromolecules/Enzymes|
+|23 Apr., 2018|4|The Microscope and Microscopic Life|
+|30 Apr., 2018|5|The Cell|
+|7 May, 2018|6|Diffusion, Osmosis and pH|
+|21 May, 2018|7|Photosynthesis/Respiration|
+2018|8|Community Interactions|
+|28 May, 2018|9|Bioindicators|
+|4 Jun., 2018|10|	Owl Pellets and Populations/Ecological Footprint|
 
 #### [PCC Grading Guidelines](https://www.pcc.edu/resources/student-records/grading/)
 
