@@ -187,7 +187,7 @@ Lecture component of the course:
 |Homework (+ participation)|Weekly assignments due by the end of the weekend (Sunday 11:59PM). Participation may factor into homework grades as well.|10 @ 2-3 = 26|10%|
 |**Total**||256|100%|
 
-Homework: Weekly homework will be posted on Pearson's Mastering Biology Site. [Click here](https://docs.google.com/document/d/17yVWFe9zlXYtiq2JqQyJHAt_k1bVz5uFxi8Vl-Hjqe0/edit?usp=sharing) for instructions on setting up an account for homework. The Course ID for this course is: **MBFISHER07524**.
+Homework: Weekly homework will be posted on Pearson's Mastering Biology Site. [Click here](https://docs.google.com/document/d/17yVWFe9zlXYtiq2JqQyJHAt_k1bVz5uFxi8Vl-Hjqe0/edit?usp=sharing) for instructions on setting up an account for homework. The Course ID for this course is: **MBFISHER56324**.
 
 Lab Component of the course:
 
