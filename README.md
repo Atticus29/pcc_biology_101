@@ -36,7 +36,7 @@ Course content, including lectures, will be disseminated on the [course wiki](ht
 
 #### Textbook and Lab Manual
 
-- Biology 101 PCC Laboratory Manual, Fifth edition, Hayden McNeil, 2014.
+- Biology 101 PCC Laboratory Manual, Sixth edition, Hayden McNeil, 2014.
 - Pearson Custom Library for the Biological Sciences. Audesirk et al. 2017. Biology: Life on Earth with Physiology.
 
 #### Computer Resources
@@ -193,8 +193,8 @@ Lab Component of the course:
 
 |Graded Component|Details|Contribution (raw points)|Contribution (% of final grade)|
 |:---:|:---:|:------:|:---:|
-|Post Labs|10 total (0 in week 2 and 2 in week 10)|11 * 10 = 110|57.90%|
-|Quizzes|8 total (no quiz for weeks 1 or 2), (with lowest dropped)|8 * 10 = 80|42.1%|
+|Post Labs|11 total (two in week 10) |10 * 11 = 110|57.90%|
+|Quizzes|9 total, with lowest dropped|8 * 10 = 80|42.1%|
 |**Total**||190|100%|
 
 #### Grading Scale
