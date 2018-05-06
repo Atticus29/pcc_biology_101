@@ -224,7 +224,7 @@ Lecture
 |30 Apr., 2018|5|Cell Membranes, Energy Flow and Life of the Cell|5, 6|
 |7 May, 2018|6|Ch. 6 (cont.) & PhotosynthesisCellular Respiration|7.1 only, 8|
 |14 May, 2018|7|Ch. 8 (cont.) & Population Growth and Regulation|9|
-|21 May, 2018|8|Community Interactions **Exam 2 (Wednesday)** Chapter 10 not covered on exam|10|
+|21 May, 2018|8|Community Interactions **Exam 2 (Wednesday)** Chapter 10 (not covered on exam)|10|
 |28 May, 2018|9|Ch. 10 (cont. ) & Ecosystems|11|
 |4 Jun., 2018|10|Ch. 11 (cont.) & Diverse Ecosystems & Biodiversity|12, 13|
 |Monday, 11 Jun., 2018, 9:00AM - 10:50 AM|11|CRN 26658 (MW 9:00 AM - 10:20 AM) **Comprehensive Final Exam**|NA|
