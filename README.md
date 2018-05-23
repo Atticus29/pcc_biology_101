@@ -241,7 +241,6 @@ Lab (for CRN 20409)
 |30 Apr., 2018|5|The Cell|
 |7 May, 2018|6|Diffusion, Osmosis and pH|
 |21 May, 2018|7|Photosynthesis/Respiration|
-|2018|8|Community Interactions|
 |28 May, 2018|9|**No lab (Holiday)**|
 |4 Jun., 2018|10|	Owl Pellets and Populations/Ecological Footprint|
 
