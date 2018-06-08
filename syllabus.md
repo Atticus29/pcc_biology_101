@@ -226,7 +226,7 @@ Lecture
 |14 May, 2018|7|Ch. 8 (cont.) & Population Growth and Regulation|9|
 |21 May, 2018|8|Community Interactions **Exam 2 (Wednesday)** Chapter 10 (not covered on exam)|10|
 |28 May, 2018|9|**No class Monday (Holiday)** Ch. 10 (cont. ) & Ecosystems|11|
-|4 Jun., 2018|10|Ch. 11 (cont.) & Diverse Ecosystems & Biodiversity|12, 13|
+|4 Jun., 2018|10|Ch. 11 (cont.) & Diverse Ecosystems & Biodiversity|12, 13 (if time)|
 |Monday, 11 Jun., 2018, 9:00AM - 10:50 AM|11|CRN 26658 (MW 9:00 AM - 10:20 AM) **Comprehensive Final Exam**|NA|
 |Monday, 11 Jun., 2018, 1:00PM - 2:50 PM|11|CRN 20409 (MW 1:00 PM - 2:20 PM) **Comprehensive Final Exam**|NA|
 
